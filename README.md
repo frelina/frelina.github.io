@@ -2,5 +2,5 @@
 
 <img src="https://raw.githubusercontent.com/frelina/frelina.github.io/main/118905452-angry-broccoli-vegetable-character-with-funny-face-vector-illustration-on-white-background-.webp" alt="our mascot">
 
-<img src="https://github.com/frelina/frelina.github.io/blob/main/c1427ed9-c5df-43eb-9615-f2d453eab52c.jpeg?raw=true" alt="." width="500" height="600">
+<img src="https://github.com/frelina/frelina.github.io/blob/main/c1427ed9-c5df-43eb-9615-f2d453eab52c.jpeg?raw=true" alt="." width="50" height="60">
 
