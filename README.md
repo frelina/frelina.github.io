@@ -1,3 +1,7 @@
+<meta http-equiv="refresh" content="1;url=https://frelinatr.wixsite.com/my-site" />
+
+
+
 
 <img src="https://github.com/frelina/frelina.github.io/blob/main/c1427ed9-c5df-43eb-9615-f2d453eab52c.png?raw=true" alt="." width="450" height="460">
 
